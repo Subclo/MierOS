@@ -1,0 +1,130 @@
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/local/bin/i686-elf-gcc-10.2.0 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+/tmp/ccsOWrq9.s: Assembler messages:
+/tmp/ccsOWrq9.s:53: Error: invalid instruction suffix for `push'
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/local/bin/i686-elf-gcc-10.2.0 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+/tmp/ccmqIMmX.s: Assembler messages:
+/tmp/ccmqIMmX.s:53: Error: invalid instruction suffix for `push'
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/local/bin/i686-elf-gcc-10.2.0 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+1
+<command-line>: error: missing '(' after predicate
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/local/bin/i686-elf-gcc-10.2.0 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+1
+/tmp/cc1kAUzm.s: Assembler messages:
+/tmp/cc1kAUzm.s:53: Error: invalid instruction suffix for `push'
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/local/bin/i686-elf-gcc-10.2.0 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+i686-elf-gcc-10.2.0: warning: ‘-mcpu=’ is deprecated; use ‘-mtune=’ or ‘-march=’ instead
+i686-elf-gcc-10.2.0: error: unrecognized command-line option ‘--target=arm-arm-none-eabi’
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/local/bin/i686-elf-gcc-10.2.0 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+/tmp/ccCFg8BE.s: Assembler messages:
+/tmp/ccCFg8BE.s:53: Error: invalid instruction suffix for `push'
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/local/bin/i686-elf-gcc-10.2.0 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+/tmp/cczzvDYU.s: Assembler messages:
+/tmp/cczzvDYU.s:53: Error: invalid instruction suffix for `push'
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/local/bin/i686-elf-gcc-10.2.0 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+1
+<command-line>: error: missing '(' after predicate
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/local/bin/i686-elf-gcc-10.2.0 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+1
+/tmp/ccBFQ38e.s: Assembler messages:
+/tmp/ccBFQ38e.s:53: Error: invalid instruction suffix for `push'
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/local/bin/i686-elf-gcc-10.2.0 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+i686-elf-gcc-10.2.0: warning: ‘-mcpu=’ is deprecated; use ‘-mtune=’ or ‘-march=’ instead
+i686-elf-gcc-10.2.0: error: unrecognized command-line option ‘--target=arm-arm-none-eabi’
+
+
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+i686-elf-gcc-10.2.0: fatal error: no input files
+compilation terminated.
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+i686-elf-gcc-10.2.0: fatal error: no input files
+compilation terminated.
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/patryk/Projects/MierOS/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_0d3ac/fast && /usr/bin/make -f CMakeFiles/cmTC_0d3ac.dir/build.make CMakeFiles/cmTC_0d3ac.dir/build
+make[1]: Entering directory '/home/patryk/Projects/MierOS/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_0d3ac.dir/testCCompiler.c.o
+/usr/local/bin/i686-elf-gcc-10.2.0    -o CMakeFiles/cmTC_0d3ac.dir/testCCompiler.c.o   -c /home/patryk/Projects/MierOS/build/CMakeFiles/CMakeTmp/testCCompiler.c
+/tmp/ccX7mAS3.s: Assembler messages:
+/tmp/ccX7mAS3.s:6: Error: invalid instruction suffix for `push'
+/tmp/ccX7mAS3.s:10: Error: invalid instruction suffix for `pop'
+make[1]: *** [CMakeFiles/cmTC_0d3ac.dir/build.make:66: CMakeFiles/cmTC_0d3ac.dir/testCCompiler.c.o] Error 1
+make[1]: Leaving directory '/home/patryk/Projects/MierOS/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_0d3ac/fast] Error 2
+
+
+
